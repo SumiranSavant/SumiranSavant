@@ -1,27 +1,80 @@
-# Hi, I'm Sumiran 👋
+# Hi, I'm Sumiran Savant 👋
 
-I'm currently pursuing a Master of Data Science (Statistical Specialisation) at the University of Melbourne.
+🎓 Master of Data Science (Statistical Specialisation) at the University of Melbourne
 
-Previously, I worked as an Analyst at Nielsen, where I developed analytics solutions for Marketing Mix Modelling and publisher optimisation.
+💼 Former Analyst at Nielsen with 3 years of experience using data to solve business problems across marketing analytics, media optimisation, and insurance pricing.
 
-## 👨‍💻 I'm currently working on
+I'm passionate about combining statistics, machine learning, and business understanding to build data-driven solutions that create real impact.
 
-- 📈 Marketing Mix Modelling
-- 🤖 Machine Learning Projects
-- 📊 Customer Churn Prediction
-- 📉 Time Series Forecasting
+---
 
-## 🛠️ Skills
+## 🚀 Currently Working On
 
-- Python
-- SQL
-- R
-- Scikit-learn
-- Pandas
-- Tableau
-- AWS
+* 📈 Marketing Mix Modelling
+* 🤖 Machine Learning & Statistical Modelling
+* 📊 Customer Churn Prediction
+* 📉 Time Series Forecasting
+* ☁️ Learning MLOps and AWS Deployment
 
-## 📫 Connect with me
+---
 
-- LinkedIn: https://www.linkedin.com/in/sumiran-savant-55a381168/
-- Email: sumiran.savant428@gmail.com
+## 🛠️ Technical Skills
+
+**Languages**
+
+* Python
+* SQL
+* R
+* Java
+
+**Machine Learning**
+
+* Scikit-learn
+* Pandas
+* NumPy
+* SciPy
+
+**Visualisation**
+
+* Matplotlib
+* Tableau
+* Excel
+
+**Cloud**
+
+* AWS (S3, Athena, Lambda)
+
+---
+
+## 📂 Featured Projects
+
+🚧 Portfolio currently under development.
+
+Upcoming projects include:
+
+* Marketing Mix Modelling
+* Customer Churn Prediction
+* Insurance Pricing Models
+* Sales Forecasting
+* Recommendation Systems
+* NLP Sentiment Analysis
+
+---
+
+## 🌱 Current Learning Goals
+
+* Deep Learning
+* Explainable AI (SHAP)
+* Bayesian Statistics
+* Model Deployment
+* Docker & FastAPI
+
+---
+
+## 📫 Connect With Me
+
+📧 [sumiran.savant428@gmail.com](mailto:sumiran.savant428@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/sumiran-savant-55a381168/
+
+🌐 Portfolio Website (Coming Soon)
