@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sumiran 👋
 
-<!--
-**SumiranSavant/SumiranSavant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a Master of Data Science (Statistical Specialisation) at the University of Melbourne.
 
-Here are some ideas to get you started:
+Previously, I worked as an Analyst at Nielsen, where I developed analytics solutions for Marketing Mix Modelling and publisher optimisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 I'm currently working on
+
+- 📈 Marketing Mix Modelling
+- 🤖 Machine Learning Projects
+- 📊 Customer Churn Prediction
+- 📉 Time Series Forecasting
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- R
+- Scikit-learn
+- Pandas
+- Tableau
+- AWS
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/sumiran-savant-55a381168/
+- Email: sumiran.savant428@gmail.com
